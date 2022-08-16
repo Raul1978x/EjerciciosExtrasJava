@@ -2,7 +2,7 @@
  // To change this template file, choose Tools | Templates
  // and open the template in the editor.
  //
-package ejerciciosdeaprendizaje.ejerciciosextra;
+package javaejerciciosextras;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author pablo
  */
-public class ejercicio1bis {
+public class EjercicioExraN01bis {
 
     /**
      * @param args the command line arguments
