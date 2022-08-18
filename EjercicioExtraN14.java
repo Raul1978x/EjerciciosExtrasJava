@@ -38,7 +38,7 @@ public class EjercicioExtraN14 {
                 case 1:
                     System.out.println("Ingrese la edad de su hijo");
                     for (int j = 0; j < m; j++) {
-                        hijos[i] = leer.nextInt();
+                        hijos[j] = leer.nextInt();
                         prom = m;
                     }
                     media = hijos[i];
@@ -80,7 +80,7 @@ public class EjercicioExtraN14 {
 
                     break;
             }
-            promT = (media + media1 + media2 + media3 + media4) /(prom +prom1 + prom2 + prom3 + prom4);
+            promT = (media + media1 + media2 + media3 + media4) /(prom + prom1 + prom2 + prom3 + prom4);
         }
 
         System.out.println("La cantidad familias ingresadas es " + n
